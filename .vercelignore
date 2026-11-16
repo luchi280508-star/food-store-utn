@@ -1,0 +1,6 @@
+local/
+.local/
+.env*
+*.md
+Integrador-*.txt
+
